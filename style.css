@@ -15,7 +15,7 @@
     font-weight: bold;
 }
 .bold{
-    font-size: 70px;
+    font-size: 60px;
 }
 .child1{
     width: 500px;
@@ -39,6 +39,7 @@
     display: flex;
     justify-content: center;
     gap: 70px;
+    flex-wrap: wrap;
 }
 .icon{
     color: black;
@@ -50,6 +51,7 @@
     display: flex;
     justify-content: center;
     gap: 400px;
+    flex-wrap: wrap;
     
 }
 .links:hover{
