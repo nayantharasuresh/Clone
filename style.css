@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+    position: relative;
+}
+.nav-link:hover{
+    color: black;
+    font-weight: bold;
+}
+.bold{
+    font-size: 70px;
+}
+.child1{
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+#child2{
+    height:550px ;
+}
+.par{
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+}
+.parent2{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.icon{
+    color: black;
+}
+.icon:hover{
+    background-color: rgb(184, 181, 181);
+}
+.parent3{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    
+}
+.links:hover{
+    color: black;
+}
+.how:hover{
+    color: black;
+    font-weight: bold;
+}
+.bn{
+    border: none;
+    margin-left: 20px;
+}
